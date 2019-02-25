@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'dolce_vita';
+    src: url('../fonts/dolce_vita.ttf');
+}
+
+.panot{
+    font-family: 'dolce_vita';
+    letter-spacing: 8px;
+}
